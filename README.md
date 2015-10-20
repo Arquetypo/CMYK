@@ -1,3 +1,2 @@
 # CMYK
-Proyectos Sistemas Multimedia
-Blinweb
+Proyectos Sistemas MultimediaBlinweb
